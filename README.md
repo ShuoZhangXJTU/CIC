@@ -1,2 +1,24 @@
 # CIC
-Codes for AAAI-21 paper "Learning to Check Contract Inconsistencies"
+
+This repository contains the Pytorch implementation of our paper
+[Learning to Check Contract Inconsistencies](link) (AAAI 2021).
+
+## Dataset
+We plan to release the labeled open-sourced contract templates first.
+For the contracts provided from our cooperative company, anoymous dataset will be released after formal permission.
+
+## Usage
+### Run
+
+```bash
+python main.py
+```
+
+
+## Cite
+
+Please cite our paper if you use this code in your own work:
+
+```
+
+```
