@@ -1,7 +1,7 @@
 # CIC
 
 This repository contains the Pytorch implementation of our paper
-[Learning to Check Contract Inconsistencies](link) (AAAI 2021).
+[Learning to Check Contract Inconsistencies](https://arxiv.org/abs/2012.08150) (AAAI 2021).
 
 ## Usage
 ### Run
