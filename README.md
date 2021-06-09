@@ -16,5 +16,7 @@ python main.py
 Please cite our paper if you use this code in your own work:
 
 ```
-Zhang, S., Zhao, J., Wang, P., Xu, N., Yang, Y., Liu, Y., Huang, Y., & Feng, J. (2021). Learning to Check Contract Inconsistencies. Proceedings of the AAAI Conference on Artificial Intelligence, 35(16), 14446-14453.
+Zhang, S., Zhao, J., Wang, P., Xu, N., Yang, Y., Liu, Y., Huang, Y., & Feng, J. (2021). 
+Learning to Check Contract Inconsistencies. 
+Proceedings of the AAAI Conference on Artificial Intelligence, 35(16), 14446-14453.
 ```
