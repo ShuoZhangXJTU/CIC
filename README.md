@@ -3,6 +3,11 @@
 This repository contains the Pytorch implementation of our paper
 [Learning to Check Contract Inconsistencies](https://ojs.aaai.org/index.php/AAAI/article/view/17698) (AAAI 2021).
 
+
+
+## Data
+We are in the progress of negotiating with China Mobile Limited to consider releasing the desensitized version of the Chinese Contracts dataset.
+
 ## Usage
 ### Run
 
